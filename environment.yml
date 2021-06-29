@@ -1,4 +1,4 @@
-name: electroporation_modeling 
+name: electroporation_modeling
 channels:
   - conda-forge
   - defaults
@@ -19,3 +19,5 @@ dependencies:
   - gspread
   - pip:
     - ipympl
+# For gspread remember to add
+# ~/.config/gspread/service_account.json
