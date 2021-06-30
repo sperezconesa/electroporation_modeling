@@ -36,3 +36,4 @@ nohup.out
 *xtc
 *trr
 .*npz
+**/*.md

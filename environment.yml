@@ -1,4 +1,4 @@
-name: electroporation_modeling 
+name: electroporation_modeling
 channels:
   - conda-forge
   - defaults
@@ -9,7 +9,7 @@ dependencies:
   - numpy
   - pandas
   - pip
-  - python=3.8.5
+  - python=3.8
   - scipy
   - seaborn
   - tqdm
@@ -19,3 +19,5 @@ dependencies:
   - gspread
   - pip:
     - ipympl
+# For gspread remember to add
+# ~/.config/gspread/service_account.json
