@@ -17,6 +17,7 @@ dependencies:
   - arviz
   - pymc3
   - gspread
+  - python-graphviz
   - pip:
     - ipympl
 # For gspread remember to add
