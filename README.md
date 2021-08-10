@@ -25,8 +25,8 @@
 <a href="https://lbesson.mit-license.org/">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT license">
 </a>
-<a href="https://doi.org/10.1101/2021.01.08.425840">
-  <img src="http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-B31B1B.svg" alt="DOI:10.1101/2021.01.08.425840">
+<a href="https://doi.org/YYYYYY">
+  <img src="http://img.shields.io/badge/DOI-YYYYY-B31B1B.svg" alt="DOI:YYYYY">
 </a>
 <a href="https://twitter.com/intent/follow?screen_name=sperezconesa">
   <img src="https://img.shields.io/twitter/follow/sperezconesa?style=social&logo=twitter" alt="follow on Twitter">
@@ -61,11 +61,9 @@ The code is based on the jupyter notebooks. `` is used to convert the raw data i
 ### Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sperezconesa/electroporation_modeling/HEAD)
 
-Try out [mybinder](https://mybinder.org/v2/gh/sperezconesa/electroporation_modeling/HEAD) to run the notebooks live on the cloud!
+Try out [my binder](https://mybinder.org/v2/gh/sperezconesa/electroporation_modeling/HEAD) to run the notebooks live on the cloud! It's free :wink:
 
-For the moment, you can't recreate the models (too few memory on binder) and can't upload them from the github repo.
-
-WIP: load models from OSF or similar.
+Unfortunatelly, you can't train the models (too few memory on binder), but you can load them from the [OSF](https://osf.io/fv98a/) repostory and analyze them in my binder.
 
 ### Recreate conda environment
 
@@ -79,7 +77,7 @@ Use `environment_exact.yml` for the exact environment.
 
 ### Getting additional data files
 
-Unfortunatelly we cannot share heavy files on github, but you can get them...
+All the data, including the inference models, simulations etc. can be found in [Open Software Foundation](https://osf.io/fv98a/).
 
 ## Project Organization
 
@@ -102,7 +100,7 @@ Unfortunatelly we cannot share heavy files on github, but you can get them...
 │   ├── final_figures  <- Generated graphics and figures to be used in final report.
 │   └── docs           <- Generated LaTeX, pdf, word, powerpoint etc.
 │
-├── environment.yml   <- The necessary packages to install in conda environment.
+├── environment.yml    <- The necessary packages to install in conda environment.
 │
 ├── environment_exact.yml   <- The exact package versions used.
 │
@@ -123,16 +121,16 @@ Project based on the [cookiecutter for Molecular Dynamics](https://github.com/sp
 ## To Do
 
 - [x] Clean-up the repository of unused or WIP files.
-- [ ] Make binder-friendly the notebooks.
+- [x] Make binder-friendly the notebooks.
 - [x] Make a version specific `environment_exact.yml`.
 - [x] Remove references to external scripts.
-- [ ] Can we reproduce the data.
+- [x] Can we reproduce the data in another computer.
 - [x] Rewrite `README.md`.
 - [x] Save notebooks with images.
+- [x] Add github badges.
+- [x] Update github and go public.
 - [ ] Add latex or word preprint document to reports.
 - [ ] Update arxiv link.
 - [ ] Update `CITE.bib` and doi badge.
 - [ ] Make repo for big files and link it in `README.md`.
-- [x] Add github badges.
-- [x] Update github and go public.
 - [ ] Update article link.
