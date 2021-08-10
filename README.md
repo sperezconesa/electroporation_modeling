@@ -63,6 +63,10 @@ The code is based on the jupyter notebooks. `` is used to convert the raw data i
 
 Try out [mybinder](https://mybinder.org/v2/gh/sperezconesa/electroporation_modeling/HEAD) to run the notebooks live on the cloud!
 
+For the moment, you can't recreate the models (too few memory on binder) and can't upload them from the github repo.
+
+WIP: load models from OSF or similar.
+
 ### Recreate conda environment
 
 To recreate the conda environment used:
@@ -120,17 +124,15 @@ Project based on the [cookiecutter for Molecular Dynamics](https://github.com/sp
 
 - [x] Clean-up the repository of unused or WIP files.
 - [ ] Make binder-friendly the notebooks.
-- [ ] Make a version specific `environment_exact.yml`.
-- [ ] `make format` and `make clean`.
+- [x] Make a version specific `environment_exact.yml`.
+- [x] Remove references to external scripts.
+- [ ] Can we reproduce the data.
 - [x] Rewrite `README.md`.
 - [x] Save notebooks with images.
 - [ ] Add latex or word preprint document to reports.
 - [ ] Update arxiv link.
-- [ ] Update `CITE.bib`.
+- [ ] Update `CITE.bib` and doi badge.
 - [ ] Make repo for big files and link it in `README.md`.
-- [x] Consider getting a DOI with Zenodo and add the Zenodo DOI badge.
-- [ ] Can we reproduce the data.
 - [x] Add github badges.
 - [x] Update github and go public.
 - [ ] Update article link.
-- [ ] Remove references to external scripts.

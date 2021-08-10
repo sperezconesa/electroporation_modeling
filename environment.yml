@@ -1,24 +1,24 @@
 name: electroporation_modeling
 channels:
-  - conda-forge
+  - salilab
   - defaults
+  - conda-forge
 dependencies:
-  - ipywidgets=7.5.1
-  - jupyterlab=2.1.5
-  - nodejs
-  - numpy
-  - pandas
-  - pip
-  - python=3.8
-  - scipy
-  - seaborn
-  - tqdm
-  - ipykernel
-  - arviz
+  - nb_black
+  - scikit-learn-intelex
+  - sympy
   - pymc3
-  - gspread
+  - watermark
+  - nodejs
+  - scipy
+  - numpy
+  - ipykernel
+  - python
+  - seaborn
+  - pyjanitor
+  - arviz
   - python-graphviz
-  - pip:
-    - ipympl
-# For gspread remember to add
-# ~/.config/gspread/service_account.json
+  - tqdm
+  - gspread
+  - pip
+  - pandas
