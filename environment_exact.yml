@@ -244,3 +244,4 @@ dependencies:
   - zeromq=4.3.4=h9c3ff4c_0
   - zlib=1.2.11=h516909a_1010
   - zstd=1.5.0=ha95c52a_0
+prefix: /home/sperez/data_partition/bin2/anaconda3/envs/electroporation_modeling
