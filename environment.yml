@@ -2,7 +2,6 @@ name: electroporation_modeling
 channels:
   - conda-forge
 dependencies:
-  - nb_black
   - scikit-learn-intelex
   - sympy
   - pymc3
