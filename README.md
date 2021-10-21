@@ -48,7 +48,7 @@ This project uses Bayesian Survival Analysis (PYMC3) to study the rate of membra
 I am happy to connect and discuss this and other projects through [github](https://github.com/sperezconesa), [linkedin](https://www.linkedin.com/in/sperezconesa), [twitter](https://twitter.com/sperezconesa), [email](sperezconesa@gmail.com) etc.
 Feel free to suggest ways we could have improved this code.
 
-If you want to cite this work, please use CITE.bib, thank you!
+If you want to cite this code, please use CITE.bib, thank you!
 
 Published Preprint: [Identification of electroporation sites in the complex lipid organization of the plasma membrane](https://www.biorxiv.org/content/10.1101/2021.10.16.464625v1.abstract)
 
