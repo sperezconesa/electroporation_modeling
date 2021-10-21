@@ -130,6 +130,6 @@ Project based on the [cookiecutter for Molecular Dynamics](https://github.com/sp
 - [x] Add github badges.
 - [x] Update github and go public.
 - [x] Update arxiv link.
-- [ ] Update `CITE.bib` and doi badge.
+- [x] Update `CITE.bib` and doi badge.
 - [ ] Make repo for big files and link it in `README.md`.
 - [ ] Update article link.
