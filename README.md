@@ -50,7 +50,7 @@ Feel free to suggest ways we could have improved this code.
 
 If you want to cite this work, please use CITE.bib, thank you!
 
-Published Preprint:
+Published Preprint: [Identification of electroporation sites in the complex lipid organization of the plasma membrane](https://www.biorxiv.org/content/10.1101/2021.10.16.464625v1.abstract)
 
 Published Article:
 
@@ -129,8 +129,7 @@ Project based on the [cookiecutter for Molecular Dynamics](https://github.com/sp
 - [x] Save notebooks with images.
 - [x] Add github badges.
 - [x] Update github and go public.
-- [ ] Add latex or word preprint document to reports.
-- [ ] Update arxiv link.
+- [x] Update arxiv link.
 - [ ] Update `CITE.bib` and doi badge.
 - [ ] Make repo for big files and link it in `README.md`.
 - [ ] Update article link.
