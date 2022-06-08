@@ -52,7 +52,7 @@ If you want to cite this code, please use CITE.bib, thank you!
 
 Published Preprint: [Identification of electroporation sites in the complex lipid organization of the plasma membrane](https://www.biorxiv.org/content/10.1101/2021.10.16.464625v1.abstract)
 
-Published Article:[Identification of electroporation sites in the complex lipid organization of the plasma membrane](https://elifesciences.org/articles/74773)
+Published Article: [Identification of electroporation sites in the complex lipid organization of the plasma membrane](https://elifesciences.org/articles/74773)
 
 ## Running the code
 
@@ -131,5 +131,5 @@ Project based on the [cookiecutter for Molecular Dynamics](https://github.com/sp
 - [x] Update github and go public.
 - [x] Update arxiv link.
 - [x] Update `CITE.bib` and doi badge.
-- [ ] Make repo for big files and link it in `README.md`.
-- [ ] Update article link and doi badge.
+- [x] Make repo for big files and link it in `README.md`.
+- [x] Update article link and doi badge.
