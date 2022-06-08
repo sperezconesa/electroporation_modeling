@@ -25,8 +25,8 @@
 <a href="https://lbesson.mit-license.org/">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT license">
 </a>
-<a href="https://doi.org/YYYYYY">
-  <img src="http://img.shields.io/badge/DOI-YYYYY-B31B1B.svg" alt="DOI:YYYYY">
+<a href="https://doi.org/10.7554/eLife.74773">
+  <img src="http://img.shields.io/badge/DOI-74773-B31B1B.svg" alt="DOI:74773">
 </a>
 <a href="https://twitter.com/intent/follow?screen_name=sperezconesa">
   <img src="https://img.shields.io/twitter/follow/sperezconesa?style=social&logo=twitter" alt="follow on Twitter">
@@ -52,7 +52,7 @@ If you want to cite this code, please use CITE.bib, thank you!
 
 Published Preprint: [Identification of electroporation sites in the complex lipid organization of the plasma membrane](https://www.biorxiv.org/content/10.1101/2021.10.16.464625v1.abstract)
 
-Published Article:
+Published Article:[Identification of electroporation sites in the complex lipid organization of the plasma membrane](https://elifesciences.org/articles/74773)
 
 ## Running the code
 
